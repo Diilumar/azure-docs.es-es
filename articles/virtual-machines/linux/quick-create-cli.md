@@ -60,7 +60,7 @@ az vm create \
   --generate-ssh-keys
 ```
 
-La creación de la máquina virtual y los recursos auxiliares tarda unos minutos en realizarse. En la salida de ejemplo siguiente se muestra que la operación de creación de la máquina virtual se realizó correctamente.
+La creación de la máquina virtual y los recursos auxiliares tarda unos minutos en realizarse. En la salida del ejemplo siguiente se muestra que la operación de creación de la máquina virtual se realizó correctamente.
 
 ```
 {
