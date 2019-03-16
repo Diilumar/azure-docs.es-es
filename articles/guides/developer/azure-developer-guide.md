@@ -166,7 +166,7 @@ Es fundamental saber no solo quién está usando las aplicaciones, sino también
 
 -   **Autenticación de App Service**: al elegir App Service para hospedar la aplicación, también obtiene compatibilidad con la autenticación integrada para Azure AD, además de proveedores de identidades sociales, como Facebook, Google, Microsoft y Twitter.
 
-    >**Cuándo se debe usar**: cuando quiera habilitar la autenticación en una aplicación de App Service con Azure AD, proveedores de identidades sociales, o ambos.
+    >**Cuándo se debe usar**: cuando quiera habilitar la autenticación en una aplicación de App Service con Azure AD, proveedores de identidades sociales o ambos.
 
     >**Para comenzar**: para más información sobre la autenticación en App Service, consulte [Autenticación y autorización en Azure App Service](../../app-service/overview-authentication-authorization.md).
 
